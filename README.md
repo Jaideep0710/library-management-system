@@ -32,6 +32,10 @@ The system includes the following tables:
 - `issued_status`: Records of books issued to members.
 - `return_status`: Records of returned books.
 
+- ## 📸 ER Diagram
+
+![ER Diagram](./Library-System-Management%20ERdiagram.png)
+
 Summary Reports
 - **High-Demand Books**: Aggregated data to find which books are issued most often.
 - **Employee Performance**: Analyzing number of book transactions handled by each employee
