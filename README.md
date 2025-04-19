@@ -1,6 +1,8 @@
 # library-management-system
 
 This project contains the database schema and Entity Relationship Diagram (ERD) for a simple library management system.
+![library](https://github.com/user-attachments/assets/048702c5-f28f-4c46-8712-e1c9d8a3dfa3)
+
 
 # Introduction
 The Library Management System is a relational database designed to manage books, branches, employees, and members within a library. 
